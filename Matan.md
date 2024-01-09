@@ -391,7 +391,7 @@ $d^nf(x_0):=d(d^{n-1}f(x_0))$
 - [предел числовой последовательности](#предел-числовой-последовательности),
 - [предел числовой последовательности](#предел-числовой-последовательности).
 
-![Alt text](photos\\image-1.png)
+![Alt text](photos/image-1.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -402,7 +402,7 @@ $d^nf(x_0):=d(d^{n-1}f(x_0))$
 - [предел числовой последовательности](#предел-числовой-последовательности),
 - [ограниченная последовательность](#ограниченная-последовательность)
 
-![Alt text](photos\\image-2.png)
+![Alt text](photos/image-2.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -416,7 +416,7 @@ $d^nf(x_0):=d(d^{n-1}f(x_0))$
 - [предел функции (по Коши)](#предел-функции-по-коши),
 - [ограниченная функция](#ограниченная-функция)
 
-![Alt text](photos\\image-3.png)
+![Alt text](photos/image-3.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -428,7 +428,7 @@ $d^nf(x_0):=d(d^{n-1}f(x_0))$
 - [проколотая окрестность точки](#проколотая-окрестность-точки),
 - [предел функции (по Коши)](#предел-функции-по-коши)
 
-![Alt text](photos\\image-4.png)
+![Alt text](photos/image-4.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -440,7 +440,7 @@ $d^nf(x_0):=d(d^{n-1}f(x_0))$
 - [проколотая окрестность точки](#проколотая-окрестность-точки),
 - [предел функции (по Коши)](#предел-функции-по-коши)
 
-![Alt text](photos\\image-5.png)
+![Alt text](photos/image-5.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -452,7 +452,7 @@ $d^nf(x_0):=d(d^{n-1}f(x_0))$
 - [проколотая окрестность точки](#проколотая-окрестность-точки),
 - [предел функции (по Коши)](#предел-функции-по-коши)
 
-![Alt text](photos\\image-6.png)
+![Alt text](photos/image-6.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -477,8 +477,8 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - [сходящаяся последовательность](#сходящаяся-последовательность),
 - [ограниченная последовательность](#ограниченная-последовательность)
 
-![Alt text](photos\\image-7.png)
-![Alt text](photos\\image-7-2.png)
+![Alt text](photos/image-7.png)
+![Alt text](photos/image-7-2.png)
 <br>(На втором скриншоте вместо частного подставить произведение)
 
 [**`↑ Оглавление ↑`**](#оглавление)
@@ -508,7 +508,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - [односторонний предел](none),
 - [а](none)
 
-![Alt text](photos\\image-8.png)
+![Alt text](photos/image-8.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -520,7 +520,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - [(конечный) предел функции (по Коши)](#конечный-предел-функции-по-коши),
 - [бесконечно малая функция](#бесконечно-малая-функция)
 
-![Alt text](photos\\image-10.png)
+![Alt text](photos/image-10.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -534,7 +534,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - [(конечный) предел фунцкии (по Коши)](#конечный-предел-функции-по-коши),
 - [бесконечно малая функция](#бесконечно-малая-функция)
 
-![Alt text](photos\\image-11.png)
+![Alt text](photos/image-11.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -548,7 +548,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - [(конечный) предел фунцкии (по Коши)](#конечный-предел-функции-по-коши),
 - [бесконечно малая функция](#бесконечно-малая-функция)
 
-![Alt text](photos\\image-12.png)
+![Alt text](photos/image-12.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -558,7 +558,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-13.png)
+![Alt text](photos/image-13.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -568,7 +568,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-14.png)
+![Alt text](photos/image-14.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -578,7 +578,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-15.png)
+![Alt text](photos/image-15.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -588,7 +588,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-16.png)
+![Alt text](photos/image-16.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -598,7 +598,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-17.png)
+![Alt text](photos/image-17.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -608,7 +608,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-18.png)
+![Alt text](photos/image-18.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -620,7 +620,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 Теорема о непрерывности элементарных функций. Любая элементарная функция непрерывна в каждой точке, в которой определена.
 
-![Alt text](photos\\image-19.png)
+![Alt text](photos/image-19.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -669,7 +669,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-22.png)
+![Alt text](photos/image-22.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -679,7 +679,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-23.png)
+![Alt text](photos/image-23.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -689,7 +689,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-24.png)
+![Alt text](photos/image-24.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -700,7 +700,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - а
 
 Теорема о производной произведения. Пусть функции $f(x)$ и $g(x)$ дифференцируемы в точке $x_0.$ Тогда в этой точке дифференциуерма также функция ${f(x)·g(x)},$ причём ${(f(x)·g(x))'}={f'(x)g(x)+f(x)g'(x)}$
-![Alt text](photos\\image-25.png)
+![Alt text](photos/image-25.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -711,7 +711,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - а
 
 Теорема о производной частного. Пусть функции $f(x)$ и $g(x)$ дифференцируемы в точке $x_0.$ Тогда в этой точке дифференциуерма также функция ${\frac {f(x)} {g(x)}},$ причём $\Big( {\frac {f(x)} {g(x)}} \Big) ' = \frac {f'(x)g(x)-f(x)g'(x)} {g^2(x)}$
-![Alt text](photos\\image-26.png)
+![Alt text](photos/image-26.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -721,7 +721,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-27.png)
+![Alt text](photos/image-27.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -731,7 +731,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-28.png)
+![Alt text](photos/image-28.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -754,7 +754,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-30.png)
+![Alt text](photos/image-30.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -764,7 +764,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-31.png)
+![Alt text](photos/image-31.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -774,7 +774,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-32.png)
+![Alt text](photos/image-32.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -784,7 +784,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-33.png)
+![Alt text](photos/image-33.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -794,7 +794,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-34.png)
+![Alt text](photos/image-34.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -804,7 +804,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-35.png)
+![Alt text](photos/image-35.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -814,7 +814,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-36.png)
+![Alt text](photos/image-36.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -824,16 +824,16 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-37.png)
+![Alt text](photos/image-37.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
 ### Билет 38
 
 Пусть $f(x)=e^x$
-<br>![Alt text](photos\\image-38.png)
+<br>![Alt text](photos/image-38.png)
 <br>Очевидно, что $f^{(n)}(x)=e^x,$ тогда при $x_0=0$ имеем
-<br>![Alt text](photos\\image-38-1.png)
+<br>![Alt text](photos/image-38-1.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -843,7 +843,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-40.png)
+![Alt text](photos/image-40.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -853,7 +853,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-39.png)
+![Alt text](photos/image-39.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -863,7 +863,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-41.png)
+![Alt text](photos/image-41.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -873,7 +873,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-42.png)
+![Alt text](photos/image-42.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -884,7 +884,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 - а
 
 Теорема (необходимое и достаточное условие неубывания функции). Пусть функция $f(x)$ непрерывна на промежутке $I$ и дифференцируема во всех точках этого промежутка за исключением, быть может, конечного их числа. Чтобы эта функция была неубывающей на промежутке $I$, необходимо и достаточно, чтобы $f'(x)$ была неотрицательна всюду, где определена.
-![Alt text](photos\\image-43.png)
+![Alt text](photos/image-43.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -900,7 +900,7 @@ $\lim\limits_{x→x_0}f(x)=a,$ $\lim\limits_{x→x_0}g(x)=b ⇒$ ∃δ>0: $0<|x-
 
 - а
 
-![Alt text](photos\\image-45.png)
+![Alt text](photos/image-45.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -929,7 +929,7 @@ $\begin{gather}
 
 - а
 
-![Alt text](photos\\image-47.png)
+![Alt text](photos/image-47.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -939,7 +939,7 @@ $\begin{gather}
 
 - а
 
-![Alt text](photos\\image-48.png)
+![Alt text](photos/image-48.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
 
@@ -949,6 +949,6 @@ $\begin{gather}
 
 - а
 
-![Alt text](photos\\image-49.png)
+![Alt text](photos/image-49.png)
 
 [**`↑ Оглавление ↑`**](#оглавление)
